@@ -34,4 +34,4 @@ The model evaluation output shows the performance of the model on both training 
 
 In this project, I have built Deep Learning Classification models using the deep learning framework, Keras, in TensorFlow. I used a real-world IPO dataset and built a classifier algorithm to predict whether an IPO will list at profit or not.
 
-The accuracy was approximately 98% on the training data and 91% on the test data. The accuracy is consistent across the training and test datasets, which is a promising sign. 
+The accuracy was approximately 98% on the training data and 95% on the test data. The accuracy is consistent across the training and test datasets, which is a promising sign. 
